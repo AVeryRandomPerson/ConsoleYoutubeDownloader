@@ -9,4 +9,4 @@ Features are expected to change.</h2>
 <li> Ability to parse various youtube links as video id </li>
 <li> Ability to download video id </li>
 <li> Ability to recognize a playlist by url and queue the whole playlist as a download </li>
-<li> Ability to extract .mp3 audio from .mp4 video <li>
+<li> Ability to extract .mp3 audio from .mp4 video </li>
